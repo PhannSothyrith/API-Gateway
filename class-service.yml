@@ -3,3 +3,4 @@ spring:
     url: jdbc:postgresql://localhost:5436/classroom_db
     username: postgres
     password: database09
+    
